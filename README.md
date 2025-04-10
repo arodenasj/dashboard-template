@@ -1,73 +1,30 @@
-# Welcome to your Lovable project
+# Bienvenido a tu proyecto de panel de control
 
-## Project info
+## Información del proyecto
 
-**URL**: https://lovable.dev/projects/58d1fa9d-3fa4-4649-bac3-f9b2e7825691
+Esta es una plantilla de panel de control gratuita diseñada para ayudarte a comenzar rápidamente con tus proyectos de visualización de datos y administración.
 
-## How can I edit this code?
+## ¿Cómo puedo editar este código?
 
-There are several ways of editing your application.
+Puedes editar esta plantilla de varias maneras:
 
-**Use Lovable**
+**Usa tu IDE preferido**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/58d1fa9d-3fa4-4649-bac3-f9b2e7825691) and start prompting.
+Si quieres trabajar localmente usando tu propio IDE, puedes clonar este repositorio y enviar los cambios.
 
-Changes made via Lovable will be committed automatically to this repo.
+Requisitos: Node.js y npm instalados - [instalar con nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Sigue estos pasos:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Paso 1: Clona el repositorio usando la URL de Git del proyecto.
+git clone https://github.com/arodenasj/dashboard-template.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Paso 2: Navega al directorio del proyecto.
+cd <NOMBRE_DE_TU_PROYECTO>
 
-# Step 3: Install the necessary dependencies.
+# Paso 3: Instala las dependencias necesarias.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Paso 4: Inicia el servidor de desarrollo con recarga automática y una vista previa instantánea.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/58d1fa9d-3fa4-4649-bac3-f9b2e7825691) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
